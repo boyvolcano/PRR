@@ -1,0 +1,10 @@
+quickselect,376,2,1
+l1diameter,371,1,1
+l2diameter,371,1,1
+randsearch,376,2,1
+quicksort,2206,4,1
+rdwalk,2198,0.25,1
+rdadder,2208,0.25,4
+channel,2192,0.5,2
+manual1,371,1,1
+manual2,376,2,1
